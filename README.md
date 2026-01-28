@@ -120,17 +120,6 @@ https://car-model-prediction-gxrjvgbzfahdsgfenmpfrp.streamlit.app/
 ## Author
 **Rebecca Cullum**  
 Entry-level Data Scientist  
-📍 Cape Town, South Africa  
+Cape Town, South Africa  
+LinkedIn: *http://www.linkedin.com/in/rebecca-cullum-63537b377/*  
 
-🔗 LinkedIn: *http://www.linkedin.com/in/rebecca-cullum-63537b377/*  
-
----
-
-## ⭐ Why This Project Matters
-This project demonstrates:
-- End-to-end data science capability  
-- Practical machine learning application  
-- Strong data storytelling  
-- Deployment of a model for real-world use  
-
-It reflects the skills required for **junior data scientist and data analyst roles**.
